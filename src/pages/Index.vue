@@ -11,7 +11,15 @@
     </p>
 
     <p>
-      Go to <g-link to="/emojis">Emojis</g-link> to see a dynamic list of emojis retrieved with GraphML.
+      Go to <g-link to="/emojis">Emojis</g-link> to see a dynamic list of emojis from local data retrieved with GraphML.
+    </p>
+
+    <p>
+      Go to <g-link to="/external">External Data</g-link> to see a list of countries from an external API retrieved with GraphML.
+    </p>
+    
+    <p>
+      Go to <g-link to="https://github.com/jonhassall/gridsome-jonhassall">Github</g-link> to see the source.
     </p>
 
   </Layout>
